@@ -12,8 +12,7 @@ files[] = {"id":"812948-eac6080f-90e2-493c-9ed0-770cfbe9531d","path":"New Collec
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"small_5kb_collection.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
-rootFiles[] = index.yaml
